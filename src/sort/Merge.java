@@ -1,3 +1,5 @@
+package sort;
+
 // Class which implements Merge sort for the given set of numbers.
 // Basic Idea:
 // 1. Divide array into two parts

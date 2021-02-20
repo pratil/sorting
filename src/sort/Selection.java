@@ -1,3 +1,5 @@
+package sort;
+
 // Class which implements Selection sort for the given set of numbers.
 // Basic Idea: Pick the minimum and replace with first then second minimum with second and so on ....
 public class Selection implements Sort {

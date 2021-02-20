@@ -1,3 +1,5 @@
+package sort;
+
 import java.util.Arrays;
 
 // Class which implements Java Arrays sort for the given set of numbers.
