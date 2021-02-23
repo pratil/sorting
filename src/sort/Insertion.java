@@ -5,7 +5,7 @@ package sort;
 public class Insertion implements Sort {
 
     // Name of sort to display in output
-    public static final String NAME = "sort.Insertion.sort";
+    public static final String NAME = "Insertion.sort";
 
     @Override
     public String getName() {
