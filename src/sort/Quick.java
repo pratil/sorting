@@ -1,3 +1,5 @@
+package sort;
+
 // Class which implements insertion sort for the given set of numbers.
 // Basic Idea:
 // 1. Partition the array in two parts where all the left elements are smaller then the partition and on right all are larger.

@@ -1,3 +1,5 @@
+package sort;
+
 // Class which implements Insertion sort for the given set of numbers.
 // Basic Idea: assuming that the array is sorted on the left of ith element we have to insert the ith element in to the sorted array
 public class Insertion implements Sort {

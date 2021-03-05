@@ -1,3 +1,5 @@
+package sort;
+
 public interface Sort {
 
     // to define the name of a Sort method, for displaying purpose.

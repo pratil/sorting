@@ -1,3 +1,6 @@
+import sort.Order;
+import sort.Sort;
+
 public class Main {
 
     // to generate a random number and sort it using the type of sort and then test if the array is sorted or not
