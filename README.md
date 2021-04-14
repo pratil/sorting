@@ -27,6 +27,3 @@ To compare and to calculate the time taken by them we need some more small class
 
 
 ![Average Time Taken by Sort method to sort 100 random arrays of the given size](./data.png "Average time taken by Sort method to sort 100 random arrays of the given size")
-
-PS: Another interesting comparison between sort methods where the sort methods are compared based on the sort method
-which took maximum time. [check here](./Comparison.md) 
