@@ -38,6 +38,6 @@ public class Main {
     public static void main(String[] args) {
 //        compareSorts();
 //        getAverageRunningTimeForOne(new ArraySort(), 100, 50_000);
-//        getAverageRunningTimeForAll(100, 1_000_000, 2_000_000, 5_000_000, 10_000_000, 20_000_000);
+        getAverageRunningTimeForAll(100, 1_000);
     }
 }
